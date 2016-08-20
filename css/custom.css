@@ -1,0 +1,121 @@
+* {
+    font-family: 'Anton';
+}
+
+body {
+  padding-top: 50px;
+}
+
+footer {
+  background-color: #3b8337;
+  padding: 50px 50px;
+}
+
+ .container h2 {
+  font-family: 'Poiret One';
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+
+.homepage {
+  text-align: center;
+}
+
+.jumbotron {
+    text-align: center;
+    
+}
+
+#jumbotron {
+  background-color: white;
+  margin-bottom: none;
+}
+
+.jumbotron h1 {
+    margin-bottom: 10px
+}
+.jumbotron p {
+    padding-bottom: 
+}
+.jumbotron h1, .jumbotron p {
+   font-family: 'Poiret One'; 
+}
+
+.homepage .btn-default {
+  color: #5CB859;
+}
+
+a.btn.btn-success.btn-lg {
+    font-size: 22px;
+    font-family: 'Poiret One';
+}
+
+.homepage a:hover {
+  color: #5CB859;
+  text-decoration: none;
+  opacity: .8;
+}
+
+.speaker-box {
+    width: 70%;
+    display: inline-block;
+    margin: auto;
+}
+
+#skills  {
+  background-color: #eee;
+  padding-bottom: 50px;
+}
+
+#skills h2 {
+  margin-top: 55px;
+}
+
+#awesome-man {
+  width: 35%;
+  margin: auto;
+}
+
+#javaIcon {
+  width: 30%;
+  margin: auto;
+}
+
+.fa-html5, .fa-css3 {
+  font-size: 110px;
+  color: #5CB859;
+}
+
+.fa-html5 {
+  font-size: 120px;
+}
+
+.homepage hr {
+  width: 160px;
+  border-top: 1px solid#5CB859;
+  margin-top: 15px;
+}
+
+
+#who {
+  
+  background-size: cover;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../face.jpg');
+    background-position: center top;
+    background-attachment: fixed;
+    color: white;
+}
+
+#who h2 {
+  margin-top: 55px;
+}
+
+#who .container {
+  padding-bottom: 50px;
+}
+
+#brand-logo {
+  width: 40%;
+  padding-top: 30px;
+}
